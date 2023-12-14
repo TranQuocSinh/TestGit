@@ -8,5 +8,6 @@ namespace TestGitHub.Model
 {
     internal class user
     {
+        public int ID { get; set; }
     }
 }
