@@ -8,5 +8,7 @@ namespace TestGitHub.Model
 {
     internal class user
     {
+        public int MSSV { get; set; }
+
     }
 }
